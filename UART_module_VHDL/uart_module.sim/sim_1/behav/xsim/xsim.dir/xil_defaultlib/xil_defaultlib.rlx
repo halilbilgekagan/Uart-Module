@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/vivado_projects/uart_module/uart_module.srcs/sim_1/new/simüsem.vhd,1725886243,vhdl,,,,simu,,,,,,,,
+D:/vivado_projects/uart_module/uart_module.srcs/sources_1/new/uart_clk.vhd,1725698433,vhdl,,,,baud_generate,,,,,,,,
+D:/vivado_projects/uart_module/uart_module.srcs/sources_1/new/uart_regg.vhd,1725699457,vhdl,,,,uart_reg1,,,,,,,,
+D:/vivado_projects/uart_module/uart_module.srcs/sources_1/new/uart_rxx.vhd,1725886426,vhdl,,,,uart_receiver,,,,,,,,
+D:/vivado_projects/uart_module/uart_module.srcs/sources_1/new/uart_top.vhd,1725879217,vhdl,,,,uart_top,,,,,,,,
+D:/vivado_projects/uart_module/uart_module.srcs/sources_1/new/uart_txx.vhd,1725885638,vhdl,,,,uart_trans,,,,,,,,

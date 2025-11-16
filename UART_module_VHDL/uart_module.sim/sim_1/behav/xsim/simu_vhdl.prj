@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../uart_module.srcs/sources_1/new/uart_clk.vhd" \
+"../../../../uart_module.srcs/sources_1/new/uart_regg.vhd" \
+"../../../../uart_module.srcs/sources_1/new/uart_rxx.vhd" \
+"../../../../uart_module.srcs/sources_1/new/uart_top.vhd" \
+"../../../../uart_module.srcs/sources_1/new/uart_txx.vhd" \
+"../../../../uart_module.srcs/sim_1/new/simüsem.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="simu_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="simu" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="124.000001 us"></ZoomEndTime>
+      <Cursor1Time time="241.000000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="217"></NameColumnWidth>
+      <ValueColumnWidth column_width="79"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/simu/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/uart_data_rx" type="logic">
+      <obj_property name="ElementShortName">uart_data_rx</obj_property>
+      <obj_property name="ObjectShortName">uart_data_rx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/uart_tx_out" type="logic">
+      <obj_property name="ElementShortName">uart_tx_out</obj_property>
+      <obj_property name="ObjectShortName">uart_tx_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x3/reg" type="array">
+      <obj_property name="ElementShortName">reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">reg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x2/CS" type="other">
+      <obj_property name="ElementShortName">CS</obj_property>
+      <obj_property name="ObjectShortName">CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x4/NS" type="other">
+      <obj_property name="ElementShortName">NS</obj_property>
+      <obj_property name="ObjectShortName">NS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x2/uart_read" type="logic">
+      <obj_property name="ElementShortName">uart_read</obj_property>
+      <obj_property name="ObjectShortName">uart_read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x2/bit_counter" type="other">
+      <obj_property name="ElementShortName">bit_counter</obj_property>
+      <obj_property name="ObjectShortName">bit_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x1/baud_clk" type="logic">
+      <obj_property name="ElementShortName">baud_clk</obj_property>
+      <obj_property name="ObjectShortName">baud_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simu/x1/x4/uart_register" type="array">
+      <obj_property name="ElementShortName">uart_register[7:0]</obj_property>
+      <obj_property name="ObjectShortName">uart_register[7:0]</obj_property>
+   </wvobject>
+</wave_config>
